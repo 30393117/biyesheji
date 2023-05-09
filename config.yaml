@@ -1,0 +1,14 @@
+HOST: localhost
+PORT: 8090
+
+FOLDER: ['caches', 'results','results_json']
+CACHE_FOLDER: caches
+RESULTS_FOLDER: results
+ALLOWED_EXTENSIONS: ['png', 'jpg', 'jpeg']
+
+MYDEVICE: 'cpu'
+IMG_SIZE: 640
+THRESHOLD: 0.6
+DIR_PATH: Serving_model/commodity/
+
+

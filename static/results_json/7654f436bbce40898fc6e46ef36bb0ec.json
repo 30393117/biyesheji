@@ -1,0 +1,17 @@
+{
+    "code": 1,
+    "img_url": "static\\caches\\7654f436bbce40898fc6e46ef36bb0ec.jpg",
+    "result_url": "static\\results\\7654f436bbce40898fc6e46ef36bb0ec.jpg",
+    "result_json": "static\\results_json\\7654f436bbce40898fc6e46ef36bb0ec.json",
+    "img_info": {
+        "cup-01": {
+            "xmin": 61,
+            "ymin": 104,
+            "xmax": 767,
+            "ymax": 656,
+            "label": "cup",
+            "confidence": 0.872
+        }
+    },
+    "time": "0.4470s"
+}

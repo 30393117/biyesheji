@@ -1,0 +1,17 @@
+{
+    "code": 1,
+    "img_url": "static\\caches\\e9fb7c9b9f73491599787e1428d67d86.jpg",
+    "result_url": "static\\results\\e9fb7c9b9f73491599787e1428d67d86.jpg",
+    "result_json": "static\\results_json\\e9fb7c9b9f73491599787e1428d67d86.json",
+    "img_info": {
+        "\u6d17\u62a4\u7528\u54c1-01": {
+            "xmin": 269,
+            "ymin": 102,
+            "xmax": 628,
+            "ymax": 997,
+            "label": "\u6d17\u62a4\u7528\u54c1",
+            "confidence": 0.91
+        }
+    },
+    "time": "0.1886s"
+}

@@ -1,0 +1,49 @@
+{
+    "code": 1,
+    "img_url": "static\\caches\\f8d6313a7ff94926914f8b70e7a48946.jpg",
+    "result_url": "static\\results\\f8d6313a7ff94926914f8b70e7a48946.jpg",
+    "result_json": "static\\results_json\\f8d6313a7ff94926914f8b70e7a48946.json",
+    "img_info": {
+        "\u70df\u8482-01": {
+            "xmin": 125,
+            "ymin": 124,
+            "xmax": 152,
+            "ymax": 168,
+            "label": "\u70df\u8482",
+            "confidence": 0.849
+        },
+        "\u70df\u8482-02": {
+            "xmin": 14,
+            "ymin": 32,
+            "xmax": 58,
+            "ymax": 71,
+            "label": "\u70df\u8482",
+            "confidence": 0.826
+        },
+        "\u70df\u8482-03": {
+            "xmin": 146,
+            "ymin": 19,
+            "xmax": 170,
+            "ymax": 48,
+            "label": "\u70df\u8482",
+            "confidence": 0.824
+        },
+        "\u70df\u8482-04": {
+            "xmin": 192,
+            "ymin": 102,
+            "xmax": 221,
+            "ymax": 143,
+            "label": "\u70df\u8482",
+            "confidence": 0.798
+        },
+        "\u70df\u8482-05": {
+            "xmin": 0,
+            "ymin": 92,
+            "xmax": 18,
+            "ymax": 116,
+            "label": "\u70df\u8482",
+            "confidence": 0.742
+        }
+    },
+    "time": "0.2751s"
+}

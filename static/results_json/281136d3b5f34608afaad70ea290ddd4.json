@@ -1,0 +1,41 @@
+{
+    "code": 1,
+    "img_url": "static\\caches\\281136d3b5f34608afaad70ea290ddd4.jpg",
+    "result_url": "static\\results\\281136d3b5f34608afaad70ea290ddd4.jpg",
+    "result_json": "static\\results_json\\281136d3b5f34608afaad70ea290ddd4.json",
+    "img_info": {
+        "\u73bb\u7483\u5668\u76bf-01": {
+            "xmin": 118,
+            "ymin": 238,
+            "xmax": 239,
+            "ymax": 383,
+            "label": "\u73bb\u7483\u5668\u76bf",
+            "confidence": 0.855
+        },
+        "\u996e\u6599\u74f6-02": {
+            "xmin": 396,
+            "ymin": 6,
+            "xmax": 491,
+            "ymax": 276,
+            "label": "\u996e\u6599\u74f6",
+            "confidence": 0.778
+        },
+        "\u996e\u6599\u74f6-03": {
+            "xmin": 286,
+            "ymin": 3,
+            "xmax": 384,
+            "ymax": 174,
+            "label": "\u996e\u6599\u74f6",
+            "confidence": 0.67
+        },
+        "\u73bb\u7483\u5668\u76bf-04": {
+            "xmin": 917,
+            "ymin": 321,
+            "xmax": 1024,
+            "ymax": 480,
+            "label": "\u73bb\u7483\u5668\u76bf",
+            "confidence": 0.641
+        }
+    },
+    "time": "0.2631s"
+}
